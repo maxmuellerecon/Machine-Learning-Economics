@@ -7,15 +7,15 @@ The unsupervised machine learning methods that are discussed include clustering.
 
 The Course is structured as follows:
 1. Penalized Regressions \
-	a. RIDGE
-	b. LASSO
-	c. Elastic Net
-2. Trees and Forests\
-	a. Trees
-	b. Random Forests
-3. Applications\
-	a. Applications: Regression Trees
-	b. Applications: Random Forests
+	a. RIDGE \
+	b. LASSO \
+	c. Elastic Net \
+2. Trees and Forests \
+	a. Trees \
+	b. Random Forests \
+3. Applications \
+	a. Applications: Regression Trees \
+	b. Applications: Random Forests \
 4. Unsupervised Machine Learning Techniques\
-	a. K-Means Clustering
+	a. K-Means Clustering \
 	
