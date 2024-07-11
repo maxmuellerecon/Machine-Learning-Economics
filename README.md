@@ -1,8 +1,8 @@
 # Introduction to Machine Learning for Economists
 
-The course provides an introduction to machine learning methods applied to real-life economic and business problems (using the open source software R).. 
-Supervised and unsupervised machine learning methods as well as reinforcement learning algorithms are covered. 
-The focus of the lecture is on supervised machine learning methods, which include penalized regression methods, tree-based methods and neural networks. 
+The course provides an introduction to machine learning methods applied to real-life economic and business problems (using the open source software R). 
+Supervised and unsupervised machine learning methods are covered. 
+The focus of the lecture is on supervised machine learning methods, which include penalized regression methods, tree-based methods. 
 The unsupervised machine learning methods that are discussed include clustering.
 
 The Course is structured as follows:
