@@ -19,3 +19,6 @@ The Course is structured as follows:
 4. Unsupervised Machine Learning Techniques\
 	a. K-Means Clustering 
 	
+# Credits
+
+Most of the Material is based on Anthony Strittmatters Course "Introduction to Machine Learning for Economists and Business Analysts"
