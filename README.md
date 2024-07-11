@@ -9,13 +9,13 @@ The Course is structured as follows:
 1. Penalized Regressions \
 	a. RIDGE \
 	b. LASSO \
-	c. Elastic Net \
+	c. Elastic Net 
 2. Trees and Forests \
 	a. Trees \
-	b. Random Forests \
+	b. Random Forests 
 3. Applications \
 	a. Applications: Regression Trees \
-	b. Applications: Random Forests \
+	b. Applications: Random Forests 
 4. Unsupervised Machine Learning Techniques\
-	a. K-Means Clustering \
+	a. K-Means Clustering 
 	
